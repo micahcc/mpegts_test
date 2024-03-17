@@ -9,3 +9,6 @@ edition = "2021"
 clap = {version = "4.5.2", features = ["derive"] }
 less-avc = "0.1.5"
 mpeg2ts = "0.3.1"
+env_logger = "0.11"
+log = "0.4"
+anyhow = "1"
